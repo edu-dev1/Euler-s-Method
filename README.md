@@ -17,4 +17,4 @@ f1 | y' = y - x² + 1 , h = 0.2
         y4 -> y(0.8) = [1.5504 + 0.2(1.55 - 0.6² + 1)] = 1.9885
         y5 -> y(1.0) = [1.9885 + 0.2(1.99 - 0.8² + 1)] = 2.4582
 ```
-![Euler's method, function f1 (y - x² + 1)](media/f1.png)
+![Euler's method, function f1 (y - x² + 1)](media/ƒ1.png)
