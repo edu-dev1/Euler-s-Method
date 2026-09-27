@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 functions = {
-    "f1": {
+    "ƒ1": {
         "f" : lambda x, y : y - (x ** 2) + 1,
         "f_str" : "y - x² + 1",  
         "h" : 0.2,
@@ -9,7 +9,7 @@ functions = {
         "x_coor" : [],
         "y_coor" : [],
         "expressions" : []},
-    "f2": {
+    "ƒ2": {
         "f" : lambda x, y : (3 * y) - (4 * x),
         "f_str" : "3y - 4x",
         "h" : 0.25,
@@ -17,7 +17,7 @@ functions = {
         "x_coor" : [],
         "y_coor" : [],
         "expressions" : []},
-    "f3": {
+    "ƒ3": {
         "f" : lambda x, y : (y ** 2) - x,
         "f_str" : "y² - x",
         "h" : 0.1,
@@ -25,7 +25,7 @@ functions = {
         "x_coor" : [],
         "y_coor" : [],
         "expressions" : []},
-    "f4": {
+    "ƒ4": {
         "f" : lambda v : -0.98 - (0.1 * v),
         "f_str" : "-0.98 - 0.1v",
         "h" : 0.5,
