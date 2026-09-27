@@ -9,7 +9,7 @@ pip install matplotlib
 
 # Output example
 ```consolas
-f1 y' = y - x² + 1 , h = 0.2
+f1 | y' = y - x² + 1 , h = 0.2
         y0 -> y(0) = 0.5
         y1 -> y(0.2) = [0.5000 + 0.2(0.5 - 0² + 1)] = 0.8000
         y2 -> y(0.4) = [0.8000 + 0.2(0.8 - 0.2² + 1)] = 1.1520
