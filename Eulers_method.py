@@ -45,7 +45,7 @@ for func in functions.keys():
     expressions = functions[func]["expressions"]
     expression = f_str
 
-    print(func, "y' =", functions[func]["f_str"], f", h = {h}")
+    print(f"{func} | y' = {functions[func]["f_str"]} , h = {h}")
     print(f"\ty0 -> y({x}) = {y}")
     
     for n in range(1, int(1.0 / h) + 1):
