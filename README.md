@@ -1,5 +1,5 @@
 # Euler-s-Method
-Euler's method for funcitions and it's grafics
+Euler's method for 4 functions (examples) and it's grafics
 
 # Requeriments
 Matplotlib library
