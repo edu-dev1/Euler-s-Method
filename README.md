@@ -2,4 +2,7 @@
 Euler's method for funcitions and it's grafics
 
 # Requeriments
-consolas```pip install matplotlib```
+Matplotlib library
+```consolas
+pip install matplotlib
+```
