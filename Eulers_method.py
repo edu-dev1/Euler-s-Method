@@ -58,7 +58,7 @@ for func in functions.keys():
         expressions.append(f_str)
         expression = expressions[n - 1]
 
-        if func == "f4":
+        if func == "ƒ4":
             next_y = y + h * (f(y)) # Euler
             expression = expression.replace("v", "(" + str(round(y, 2)) + ")")
         else:
